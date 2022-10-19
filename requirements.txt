@@ -1,0 +1,4 @@
+# the following ackages will be installed if not installed 
+
+pip istall statistics numpy
+sudo apt-get install python-tk
